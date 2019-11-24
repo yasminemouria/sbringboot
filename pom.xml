@@ -66,7 +66,7 @@
 					<buildArgs>
 						<JAR_FILE>target/${project.build.finalName}.jar</JAR_FILE>
 					</buildArgs>
-					<fork>true</fork>
+					
 				
 				</configuration>
 				<executions>
